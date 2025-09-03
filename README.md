@@ -1,4 +1,4 @@
-# JANANI
+# JANANI V
 # 212223060099
 # Ex No: 01 - Design & Implementation of CMOS Inverter Design Using Cadence EDA Tools
 
